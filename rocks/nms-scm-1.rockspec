@@ -26,6 +26,3 @@ build = {
     }
   }
 }
-
--- luarocks make LuaAPI/rocks/coco-scm-1.rockspec
--- https://github.com/pdollar/coco/raw/master/LuaAPI/rocks/coco-scm-1.rockspec
