@@ -21,7 +21,7 @@ dependencies = {
 build = {
   type = "builtin",
   modules = {
-    nms = {
+    nmsapi = {
       sources = { "nms.c", "luaopen.c" },
     }
   }
